@@ -1,0 +1,14 @@
+.container{
+    text-align: center;
+    
+}
+body{
+    color: white;
+    background-color: black;
+}
+button{
+    padding: 10px;
+}
+span{
+    font-size: 30px;
+}
